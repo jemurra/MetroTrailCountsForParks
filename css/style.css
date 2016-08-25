@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+#map {
+    min-height: 100%;
+    position: relative;
+}
+
+#draft {
+    color: red;
+    font-size: 250%;
+    position: absolute;
+    z-index: 1000;
+    margin-left:5%
+}
+
+hr {
+    border-width:2px;
+}
+
+.ui-dialog, .ui-dialog-title{
+    white-space: normal;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "trailcounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jemurra",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-jst": "^0.6.0",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-text-replace": "^0.4.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "trailCounts",
+  "version": "1.0.0",
+  "authors": [
+    "@jemurra"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "latest",
+    "jquery-ui": "latest",
+    "leaflet": "~0.7.2",
+    "highcharts":"~4.2.5"
+  }
+}
